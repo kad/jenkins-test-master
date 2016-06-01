@@ -1,0 +1,6 @@
+[submodule "jenkins-test-submodule1"]
+	path = jenkins-test-submodule1
+	url = https://github.com/kad/jenkins-test-submodule1
+[submodule "jenkins-test-submodule2"]
+	path = jenkins-test-submodule2
+	url = https://github.com/kad/jenkins-test-submodule2
